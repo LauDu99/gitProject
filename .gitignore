@@ -1,0 +1,14 @@
+/text-1.txt 
+/text-2.txt
+/index.html
+/Style.css
+
+# Así se hacen los comentarios
+#como hacer ignore files de otro directorio
+auto-gen-files/a.txt
+auto-gen-files/b.txt
+auto-gen-files/c.txt
+#seleccionar todo los archivos de esa carpeta
+auto-gen-files/*
+#seleccionar los de un tipo en especifico
+auto-gen-files/*.txt
